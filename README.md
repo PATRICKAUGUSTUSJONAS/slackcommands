@@ -12,3 +12,5 @@ Assorted slack commands such as /dns (dns resolution) and /geoip (geolocation re
 7. Go through slack /command settings.
 
 # Just msg me on irc - irc.freenode.net / rasengan if you need assistance.
+
+# Always protect your privacy with a VPN service - https://www.privateinternetaccess.com/
