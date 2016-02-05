@@ -1,4 +1,5 @@
 <?php
+// Usage: /dns (host|ip)
 $_TOKEN='';  // Put token here.
 $text = $_POST['text'];
 $command = $_POST['command'];
